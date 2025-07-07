@@ -10,6 +10,9 @@
 .text-primary{
     color: #FD6E0A;
 }
+.secondary-bg{
+    color: #FFF8F3;
+}
 
 .dark-2{
     color: #474747;
@@ -80,3 +83,31 @@ background-repeat: no-repeat;
 background-position: top left, bottom right;
 
 }
+
+.section-title{
+font-weight: bold;
+font-size: 35px;
+color: #181818;
+}
+.section-description{
+    font-size: 18px;
+    color: #757575;
+}
+main{
+    max-width: 1140px;
+    margin: 0 auto;
+}
+.about{
+border-radius: 10px;
+padding: 130px 150px;
+text-align: center;
+margin-top: 130px;
+}
+.about-items{
+    display: flex;
+    justify-content: space-around;
+}
+.item-description{
+    font-weight: 600;
+}
+ 
